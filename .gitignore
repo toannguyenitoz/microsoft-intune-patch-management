@@ -1,0 +1,22 @@
+# PowerShell diagnostics and exports
+*.cab
+*.evtx
+*.etl
+*.log
+*.zip
+*.csv
+*.json
+
+# Local test output
+output/
+reports/
+diagnostics/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
